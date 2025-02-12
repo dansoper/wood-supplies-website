@@ -78,3 +78,17 @@ a.menu:active  {text-decoration:underline;color:#900B09;background-color:transpa
     body { margin:auto;
     max-width:768px; }
 }
+
+@media (max-width: 700px) {
+    .menu-image {
+        display: none;
+    }
+
+    h1 {
+        font-size:20pt;
+        }
+        
+        h2 {
+        font-size:12pt;
+        }
+}
