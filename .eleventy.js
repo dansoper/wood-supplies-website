@@ -3,4 +3,5 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("basics");
     eleventyConfig.addPassthroughCopy("downloads");
     eleventyConfig.addPassthroughCopy("images");
+    eleventyConfig.addPassthroughCopy("_redirects");
 }
