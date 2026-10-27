@@ -91,4 +91,8 @@ a.menu:active  {text-decoration:underline;color:#900B09;background-color:transpa
         h2 {
         font-size:12pt;
         }
+
+        p {
+            font-size: 11px;
+        }
 }
